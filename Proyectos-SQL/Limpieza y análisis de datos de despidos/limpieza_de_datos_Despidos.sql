@@ -1,7 +1,7 @@
 -- Limpieza de Datos utilizando MySQL
 -- use world_layoffs
 
---  Importo el archivo csv "layoffs" sin aplicarles ningún cambio de tipo de dato
+--  Importo el archivo csv "layoffs" sin aplicarle ningún cambio de tipo de dato
 
 -- 1 Remover duplicados
 -- 2 Estandarizar los datos
